@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Project001</string>
+    <string name="textview">TextView</string>
+    <string name="_000">000</string>
+    <string name="share_your_number">share your number</string>
+    <string name="generate">Generate</string>
+    <string name="enter_your_name_for_lucky_number">Enter your name for lucky number</string>
+    <string name="welcome">Welcome!!</string>
+</resources>
